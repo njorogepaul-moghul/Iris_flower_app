@@ -1,6 +1,6 @@
 # 🌿 Iris Flower Prediction App
 
-[**Iris flower app**](https://irisflowerapp-ripwlmfmctrzqphjapj97t.streamlit.app/)
+[** click here to launch Iris flower app**](https://irisflowerapp-ripwlmfmctrzqphjapj97t.streamlit.app/)
 
 An interactive web application that predicts the **species of an Iris flower** (*Setosa, Versicolor, Virginica*) based on user-provided sepal and petal measurements.  
 
@@ -25,7 +25,9 @@ and instantly get predictions 🎯.
 - **Scikit-learn** 🤖 (ML models)  
 - **Streamlit** 🌐 (App framework)
 
--  [**Iris flower app**](https://irisflowerapp-ripwlmfmctrzqphjapj97t.streamlit.app/)
+-  [** click here to launch Iris flower app**](https://irisflowerapp-ripwlmfmctrzqphjapj97t.streamlit.app/)
+
+
 
 
 
